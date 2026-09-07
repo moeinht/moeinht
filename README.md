@@ -23,7 +23,7 @@
 │                         PROFILE                              │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  Name       : [Your Name]                                    │
+│  Name       : Moein Hoseini                                  │
 │  Role       : Frontend Developer                             │
 │  Learning   : Cybersecurity                                  │
 │  Environment: Linux                                          │
@@ -281,37 +281,7 @@ SECURE.
 REPEAT.
 ```
 
----
 
-# `> github_activity`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-# `> contribution_snake`
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# `> connect`
-
-<p align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
