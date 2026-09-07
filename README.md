@@ -102,8 +102,7 @@ My goal is to become a developer who doesn't just build interfaces, but also und
 
 ### `Programming`
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=3776AB)
-
+![Go](https://img.shields.io/badge/Go-111111?style=for-the-badge&logo=go&logoColor=00ADD8)
 ---
 
 ## `> current_mission`
