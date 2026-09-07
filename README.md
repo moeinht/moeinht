@@ -198,30 +198,7 @@ Security Practice
 
 ---
 
-## `> featured_projects`
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│  01 │ FRONTEND PROJECTS                                  │
-│     └── Modern React / Next.js applications              │
-│                                                          │
-│  02 │ SECURITY LABS                                      │
-│     └── Legal security experiments & learning labs       │
-│                                                          │
-│  03 │ SECURITY SCRIPTS                                   │
-│     └── Python / Bash tools for learning                 │
-│                                                          │
-│  04 │ CTF WRITEUPS                                       │
-│     └── Notes and lessons from authorized CTFs            │
-│                                                          │
-│  05 │ WEB SECURITY NOTES                                 │
-│     └── OWASP, HTTP, authentication & secure coding      │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
-> `More projects coming soon...`
+cts coming soon...`
 
 ---
 
@@ -259,25 +236,6 @@ $ ./motivation.sh
 
 ---
 
-## `> github_stats`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-## `> contribution_graph`
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 ## `> connect`
 
