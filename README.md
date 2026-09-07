@@ -1,259 +1,345 @@
 # `root@github:~$ whoami`
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:111111&height=180&section=header&text=FRONTEND%20DEVELOPER&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Security%20Learner%20%7C%20Web%20Security%20%7C%20Linux&descAlignY=60&descSize=17"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+interfaces.;Understanding+systems.;Learning+web+security.;Writing+code+with+security+in+mind.;Always+learning.+Always+building." />
+</p>
+
+<p align="center">
+
+`FRONTEND` • `SECURITY` • `LINUX` • `WEB`
+
+</p>
+
+---
+
+## `> profile`
+
 ```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   ███████╗██████╗  ██████╗ ███╗   ██╗████████╗          ║
-║   ██╔════╝██╔══██╗██╔═══██╗████╗  ██║╚══██╔══╝          ║
-║   █████╗  ██████╔╝██║   ██║██╔██╗ ██║   ██║             ║
-║   ██╔══╝  ██╔══██╗██║   ██║██║╚██╗██║   ██║             ║
-║   ██║     ██║  ██║╚██████╔╝██║ ╚████║   ██║             ║
-║   ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝             ║
-║                                                          ║
-║       FRONTEND DEVELOPER × SECURITY LEARNER              ║
-║                                                          ║
-║       BUILD • BREAK • UNDERSTAND • SECURE                ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+┌──────────────────────────────────────────────────────────────┐
+│                         PROFILE                              │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  Name       : [Your Name]                                    │
+│  Role       : Frontend Developer                             │
+│  Learning   : Cybersecurity                                  │
+│  Environment: Linux                                          │
+│  Focus      : Web Development + Web Security                 │
+│                                                              │
+│  Status     : ONLINE                                         │
+│  Mode       : BUILDING                                       │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-### `$ cat profile.txt`
+> **Building interfaces. Understanding systems. Learning security.**
 
-```text
-┌─[ PROFILE ]
-│
-├── Name      : [Your Name]
-├── Role      : Frontend Developer
-├── Learning  : Cybersecurity
-├── OS        : Linux
-├── Focus     : Web Development + Web Security
-├── Mindset   : Build → Break → Learn → Secure
-└── Status    : ████████████████░░░░  Building & Learning
-```
+I'm a **Frontend Developer** and **Security Learner** interested in creating modern web applications while understanding what happens behind the interface.
 
-> `Building interfaces. Understanding systems. Learning security.`
+My long-term goal is to combine **frontend engineering + secure development + cybersecurity** to build applications that are not only beautiful, but also reliable and secure.
 
 ---
 
 ## `> about_me`
-
-I'm a **Frontend Developer** and **Security Learner** interested in building modern web experiences while understanding how web applications work under the hood.
-
-My goal is to become a developer who doesn't just build interfaces, but also understands **performance, architecture, networking, and security**.
 
 ```text
 [+] Frontend Development
 [+] React / Next.js
 [+] JavaScript / TypeScript
 [+] UI / UX
+[+] Responsive Design
 [+] Linux
 [+] Networking
 [+] Web Security
 [+] CTFs
-[+] Security Research
+[+] Secure Coding
 ```
-
----
-
-## `> frontend_stack`
-
-### `Languages`
-
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge\&logo=html5\&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge\&logo=css3\&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
-
-### `Frameworks`
-
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge\&logo=next.js\&logoColor=white)
-
-### `Styling`
-
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge\&logo=tailwind-css\&logoColor=38B2AC)
-![Sass](https://img.shields.io/badge/Sass-111111?style=for-the-badge\&logo=sass\&logoColor=CC6699)
-
-### `Tools`
-
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge\&logo=visual-studio-code\&logoColor=007ACC)
-
----
-
-## `> security_stack`
-
-### `Systems`
-
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge\&logo=linux\&logoColor=FCC624)
-![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge\&logo=gnubash\&logoColor=white)
-
-### `Networking`
-
-![Wireshark](https://img.shields.io/badge/Wireshark-111111?style=for-the-badge\&logo=wireshark\&logoColor=1679A7)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-111111?style=for-the-badge)
-
-### `Security`
-
-![Nmap](https://img.shields.io/badge/Nmap-111111?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-111111?style=for-the-badge)
-![OWASP](https://img.shields.io/badge/OWASP-111111?style=for-the-badge\&logo=owasp\&logoColor=white)
-
-### `Programming`
-
-![Go](https://img.shields.io/badge/Go-111111?style=for-the-badge&logo=go&logoColor=00ADD8)
----
-
-## `> current_mission`
-
-```text
-╭──────────────────────────────────────────────────────────╮
-│                                                          │
-│  FRONTEND                                                │
-│  [██████████████████░░] React / Next.js                  │
-│  [████████████████░░░░] JavaScript / TypeScript           │
-│  [███████████████░░░░░] UI / UX                          │
-│  [██████████████░░░░░░] Performance                      │
-│                                                          │
-│  SECURITY                                                │
-│  [████████████░░░░░░░░] Web Security                     │
-│  [███████████░░░░░░░░░] OWASP                            │
-│  [██████████░░░░░░░░░░] CTF                              │
-│  [████████░░░░░░░░░░░░] Networking                       │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
-```
-
----
-
-## `> developer_mindset`
-
-```text
-          ┌──────────────┐
-          │    DESIGN    │
-          └──────┬───────┘
-                 │
-                 ▼
-          ┌──────────────┐
-          │     CODE     │
-          └──────┬───────┘
-                 │
-                 ▼
-          ┌──────────────┐
-          │    TEST      │
-          └──────┬───────┘
-                 │
-                 ▼
-          ┌──────────────┐
-          │    SECURE    │
-          └──────┬───────┘
-                 │
-                 ▼
-          ┌──────────────┐
-          │   IMPROVE    │
-          └──────────────┘
-```
-
----
-
-## `> learning_roadmap`
-
-```text
-Frontend Development
-        │
-        ├── HTML / CSS
-        ├── JavaScript
-        ├── TypeScript
-        ├── React
-        └── Next.js
-        │
-        ▼
-Web Architecture
-        │
-        ├── HTTP / HTTPS
-        ├── REST APIs
-        ├── Authentication
-        └── Browser Security
-        │
-        ▼
-Web Security
-        │
-        ├── OWASP Top 10
-        ├── XSS
-        ├── CSRF
-        ├── Authentication
-        ├── Authorization
-        └── Secure Coding
-        │
-        ▼
-Security Practice
-        │
-        ├── Linux
-        ├── Networking
-        ├── Recon
-        ├── CTFs
-        └── Security Labs
-```
-
----
-
-
-## `> terminal`
 
 ```bash
-$ whoami
+$ echo "current_status"
+
+> learning
+> building
+> experimenting
+> documenting
+> improving
+```
+
+---
+
+# `> tech_stack`
+
+### `01 // FRONTEND`
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+
+</p>
+
+### `02 // FRAMEWORKS`
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
+<img src="https://img.shields.io/badge/Sass-111111?style=for-the-badge&logo=sass&logoColor=CC6699"/>
+
+</p>
+
+### `03 // DEVELOPMENT`
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
+
+</p>
+
+### `04 // SECURITY`
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-111111?style=for-the-badge&logo=go&logoColor=00ADD8"/>
+<img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=1679A7"/>
+<img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Burp_Suite-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OWASP-111111?style=for-the-badge&logo=owasp&logoColor=white"/>
+
+</p>
+
+---
+
+# `> current_mission`
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│  FRONTEND                                                   │
+│                                                              │
+│  React / Next.js          ██████████████████░░  90%          │
+│  JavaScript / TypeScript  ████████████████░░░░  80%          │
+│  UI / UX                  ███████████████░░░░░  75%          │
+│  Performance              █████████████░░░░░░░  65%          │
+│                                                              │
+│  SECURITY                                                    │
+│                                                              │
+│  Web Security             █████████████░░░░░░░  65%          │
+│  Linux                    ███████████████░░░░░  75%          │
+│  Networking               ████████████░░░░░░░░  60%          │
+│  CTF                      ██████████░░░░░░░░░░  50%          │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+---
+
+# `> developer_mindset`
+
+```text
+                         ┌───────────────┐
+                         │    DESIGN     │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │     CODE      │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │     TEST      │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │    SECURE     │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │    DEPLOY     │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │    IMPROVE    │
+                         └───────────────┘
+```
+
+---
+
+# `> learning_roadmap`
+
+```text
+                    ┌──────────────────────┐
+                    │ FRONTEND DEVELOPMENT │
+                    └──────────┬───────────┘
+                               │
+              ┌────────────────┼────────────────┐
+              ▼                ▼                ▼
+           HTML/CSS       JavaScript       TypeScript
+              │                │                │
+              └────────────────┼────────────────┘
+                               ▼
+                         React / Next.js
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │   WEB ARCHITECTURE   │
+                    └──────────┬───────────┘
+                               │
+                    HTTP • APIs • Auth
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │    WEB SECURITY      │
+                    └──────────┬───────────┘
+                               │
+                  OWASP • XSS • CSRF • Auth
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │ SECURITY PRACTICE    │
+                    └──────────┬───────────┘
+                               │
+              Linux • Networking • CTF • Labs
+```
+
+---
+
+# `> projects`
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  [01] FRONTEND PROJECTS                                     │
+│       Modern React / Next.js applications                    │
+│                                                              │
+│  [02] SECURITY LABS                                         │
+│       Authorized security experiments                        │
+│                                                              │
+│  [03] SECURITY SCRIPTS                                      │
+│       Go / Bash tools for learning                           │
+│                                                              │
+│  [04] CTF WRITEUPS                                          │
+│       Notes & lessons from legal CTF environments            │
+│                                                              │
+│  [05] WEB SECURITY NOTES                                    │
+│       OWASP • HTTP • Authentication • Secure Coding          │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# `> terminal`
+
+```bash
+┌──[user@github]─[~/projects]
+└─$ whoami
+
 frontend_security_learner
 
-$ pwd
-/home/security/developer
+┌──[user@github]─[~/projects]
+└─$ ls
 
-$ ls
 frontend/
 security/
 ctf/
 projects/
 notes/
 
-$ cat goals.txt
+┌──[user@github]─[~/projects]
+└─$ cat goals.txt
 
-[01] Become a better frontend developer
-[02] Understand web architecture
-[03] Learn secure coding
-[04] Practice cybersecurity legally
-[05] Build useful security-focused projects
+[01] Build beautiful interfaces
+[02] Master modern frontend development
+[03] Understand web architecture
+[04] Learn secure coding
+[05] Practice cybersecurity responsibly
+[06] Build security-focused projects
+[07] Never stop learning
 
-$ ./motivation.sh
+┌──[user@github]─[~/projects]
+└─$ ./motivation.sh
 
-> Don't just use the web.
-> Understand it.
-> Build it.
-> Secure it.
+BUILD.
+BREAK.
+UNDERSTAND.
+SECURE.
+REPEAT.
 ```
 
 ---
 
+# `> github_activity`
 
-## `> ethical_security`
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+# `> contribution_snake`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# `> connect`
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# `> ethical_security`
 
 ```text
-╔══════════════════════════════════════════════════════════╗
-║                    SECURITY PRINCIPLE                    ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  Learn responsibly.                                     ║
-║  Test only with authorization.                          ║
-║  Build with security in mind.                           ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║                     SECURITY PRINCIPLE                      ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  Learn responsibly.                                          ║
+║  Test only with authorization.                               ║
+║  Respect privacy.                                            ║
+║  Build with security in mind.                               ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
 <p align="center">
 
-### `BUILD • BREAK • UNDERSTAND • SECURE`
+`[ BUILD ]` → `[ BREAK ]` → `[ UNDERSTAND ]` → `[ SECURE ]`
 
-`root@github:~$ keep_learning`
+### `root@github:~$ keep_learning`
 
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:0f0f0f&height=100&section=footer"/>
 </p>
